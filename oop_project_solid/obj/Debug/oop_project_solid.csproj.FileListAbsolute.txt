@@ -1,0 +1,7 @@
+D:\Code\C#\oop_project_solid\oop_project_solid\bin\Debug\oop_project_solid.exe.config
+D:\Code\C#\oop_project_solid\oop_project_solid\bin\Debug\oop_project_solid.exe
+D:\Code\C#\oop_project_solid\oop_project_solid\bin\Debug\oop_project_solid.pdb
+D:\Code\C#\oop_project_solid\oop_project_solid\obj\Debug\oop_project_solid.csproj.AssemblyReference.cache
+D:\Code\C#\oop_project_solid\oop_project_solid\obj\Debug\oop_project_solid.csproj.CoreCompileInputs.cache
+D:\Code\C#\oop_project_solid\oop_project_solid\obj\Debug\oop_project_solid.exe
+D:\Code\C#\oop_project_solid\oop_project_solid\obj\Debug\oop_project_solid.pdb
